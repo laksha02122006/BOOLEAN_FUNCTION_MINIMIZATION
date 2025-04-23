@@ -46,7 +46,9 @@ EXP2B:
 
 
 
-Developed by:V.B.Laksha RegisterNumber:*212224220051
+Developed by:V.B.Laksha 
+
+RegisterNumber:212224220051
 
 
 **RTL realization**
